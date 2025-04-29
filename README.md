@@ -2,6 +2,8 @@ Register number:212224220068
 
 Developed by:NANDEESWARI A
 
+Department:B.Tech IT
+
 Date: 29-04-2025
 
 # Fitting Poisson  distribution
